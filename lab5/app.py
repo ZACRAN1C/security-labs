@@ -143,6 +143,12 @@ else:
                 for trace in fig2.data:
                     if trace.name == selected_region:
                         trace.line.width = 4.5
+
+                        trace.line.opacity = 1.0
+                    else:
+                        trace.line.width = 1.0
+                        trace.line.opacity = 0.4
+=======
                         trace.opacity = 1.0
                     else:
                         trace.line.width = 1.0
