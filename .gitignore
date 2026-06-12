@@ -2,3 +2,22 @@ household_power_consumption.txt
 **/household_power_consumption.txt
 venv/
 .ipynb_checkpoints/
+# Системні файли
+.DS_Store
+
+# Кеш та налаштування IDE
+.idea/
+.vscode/
+*.swp
+
+# Теки збірки та віртуальні середовища
+bin/
+build/
+__pycache__/
+venv/
+
+# Файли з даними (які великі або генеруються динамічно)
+*.txt
+*.csv
+*.json
+*.log
