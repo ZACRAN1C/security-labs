@@ -1,7 +1,6 @@
 import os
 import sys
 
-# Обхід помилки з Tcl/Tk в оточенні venv
 os.environ['TCL_LIBRARY'] = os.path.join(sys.base_prefix, 'tcl', 'tcl8.6')
 os.environ['TK_LIBRARY'] = os.path.join(sys.base_prefix, 'tcl', 'tk8.6')
 
