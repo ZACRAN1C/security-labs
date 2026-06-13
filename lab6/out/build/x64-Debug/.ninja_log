@@ -1,0 +1,7 @@
+# ninja log v6
+14	1663	8030086210203671	CMakeFiles/OpenCV_Lab6.dir/src/CameraProvider.cpp.obj	bc1312685d3f551e
+33	1675	8030086210398197	CMakeFiles/OpenCV_Lab6.dir/src/Display.cpp.obj	ddfdeb58282090fc
+27	1681	8030086210330342	CMakeFiles/OpenCV_Lab6.dir/src/FrameProcessor.cpp.obj	9d5e919593cdd767
+8	1688	8030086210128464	CMakeFiles/OpenCV_Lab6.dir/src/main.cpp.obj	2a49a513ab57a338
+68	182	8030088757678340	CMakeFiles/OpenCV_Lab6.dir/src/KeyProcessor.cpp.obj	5ef91b6533ffbd27
+184	728	8030088758830115	OpenCV_Lab6.exe	2cf7da232af35a5d
